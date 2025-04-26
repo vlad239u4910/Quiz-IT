@@ -1,0 +1,80 @@
+[
+  {
+    "title": "React is ... ?",
+    "variants": ["a library", "a framework", "an application"],
+    "correct": 0
+  },
+  {
+    "title": "A component is ...",
+    "variants": [
+      "an application",
+      "a part of an application or page",
+      "something I don't know what it is"
+    ],
+    "correct": 1
+  },
+  {
+    "title": "What is JSX?",
+    "variants": [
+      "It's plain HTML",
+      "It's a function",
+      "It's HTML with the ability to execute JavaScript code"
+    ],
+    "correct": 2
+  },
+  {
+    "title": "What is useState in React?",
+    "variants": [
+      "A function for creating routes",
+      "A function for managing component state",
+      "A hook for connecting styles"
+    ],
+    "correct": 1
+  },
+  {
+    "title": "Where should useEffect be used properly?",
+    "variants": [
+      "Inside any condition",
+      "At the component level, outside the function body",
+      "Inside the body of a functional component"
+    ],
+    "correct": 2
+  },
+  {
+    "title": "Which attribute is needed for rendering a list in React?",
+    "variants": ["id", "key", "index"],
+    "correct": 1
+  },
+  {
+    "title": "What are props?",
+    "variants": [
+      "Global variables",
+      "Arguments passed to a component",
+      "Component's state"
+    ],
+    "correct": 1
+  },
+  {
+    "title": "What does the map method do?",
+    "variants": [
+      "Mutates the array",
+      "Filters array elements",
+      "Creates a new array by transforming each element"
+    ],
+    "correct": 2
+  },
+  {
+    "title": "What happens if you don't specify a key when rendering a list?",
+    "variants": [
+      "Nothing — React will figure it out",
+      "There will be bugs with re-rendering",
+      "Components will be styled incorrectly"
+    ],
+    "correct": 1
+  },
+  {
+    "title": "Can you use useState in a class component?",
+    "variants": ["Yes", "No", "Only when inheriting from useClass"],
+    "correct": 1
+  }
+]

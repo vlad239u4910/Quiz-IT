@@ -1,0 +1,92 @@
+[
+  {
+    "title": "What is JavaScript?",
+    "variants": [
+      "Markup language",
+      "Programming language",
+      "Style language"
+    ],
+    "correct": 1
+  },
+  {
+    "title": "How to declare a variable in JavaScript?",
+    "variants": [
+      "let x;",
+      "var x;",
+      "const x;"
+    ],
+    "correct": 0
+  },
+  {
+    "title": "What are functions in JavaScript?",
+    "variants": [
+      "Objects",
+      "Arrays",
+      "Blocks of code that can be called"
+    ],
+    "correct": 2
+  },
+  {
+    "title": "Which data type is used to store numbers in JavaScript?",
+    "variants": [
+      "string",
+      "number",
+      "boolean"
+    ],
+    "correct": 1
+  },
+  {
+    "title": "What does the `push()` method do in JavaScript?",
+    "variants": [
+      "Adds an element to the beginning of an array",
+      "Removes an element from an array",
+      "Adds an element to the end of an array"
+    ],
+    "correct": 2
+  },
+  {
+    "title": "What are closures in JavaScript?",
+    "variants": [
+      "Functions that can modify global variables",
+      "Functions that have access to their own and outer function variables",
+      "States of objects"
+    ],
+    "correct": 1
+  },
+  {
+    "title": "How to create an object in JavaScript?",
+    "variants": [
+      "var obj = {};",
+      "let obj = [];",
+      "const obj = 'object';"
+    ],
+    "correct": 0
+  },
+  {
+    "title": "What is `this` in JavaScript?",
+    "variants": [
+      "A variable that refers to the current object",
+      "A constant that refers to the global object",
+      "A method that calls a function"
+    ],
+    "correct": 0
+  },
+  {
+    "title": "What is asynchronicity in JavaScript?",
+    "variants": [
+      "Using loops for synchronous execution",
+      "The ability to perform operations without blocking the program",
+      "Parallel execution of several functions"
+    ],
+    "correct": 1
+  },
+  {
+    "title": "How to call a function in JavaScript?",
+    "variants": [
+      "functionName()",
+      "call functionName",
+      "execute functionName"
+    ],
+    "correct": 0
+  }
+]

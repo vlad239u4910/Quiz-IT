@@ -1,0 +1,74 @@
+[
+  {
+    "title": "What is web application performance?",
+    "variants": [
+      "Page load speed",
+      "Number of users",
+      "Amount of data on the server"
+    ],
+    "correct": 0
+  },
+  {
+    "title": "How can you measure the performance of a web application?",
+    "variants": [
+      "Using `console.log()`",
+      "Using browser developer tools",
+      "By connecting Google Analytics"
+    ],
+    "correct": 1
+  },
+  {
+    "title": "What is the 'Critical Rendering Path'?",
+    "variants": [
+      "The process of rendering a page considering the most important elements",
+      "The path through which fonts and images are loaded",
+      "The route for data delivery from the server to the client"
+    ],
+    "correct": 0
+  },
+  {
+    "title": "How to reduce page load time?",
+    "variants": [
+      "Use fewer images",
+      "Minify JavaScript and CSS files",
+      "Avoid using caching"
+    ],
+    "correct": 1
+  },
+  {
+    "title": "What is lazy loading?",
+    "variants": [
+      "A method of dynamically loading content as needed",
+      "A method of asynchronous code execution",
+      "An image compression algorithm"
+    ],
+    "correct": 0
+  },
+  {
+    "title": "Which tool helps analyze site performance?",
+    "variants": [
+      "Lighthouse",
+      "Figma",
+      "Sass"
+    ],
+    "correct": 0
+  },
+  {
+    "title": "What is 'Repaint' in the page rendering process?",
+    "variants": [
+      "Changing the appearance of an element",
+      "Redrawing elements on the screen without changing their position",
+      "Moving elements on the page"
+    ],
+    "correct": 1
+  },
+  {
+    "title": "How to speed up JavaScript execution on a page?",
+    "variants": [
+      "Use `requestAnimationFrame` for animations",
+      "Execute all scripts synchronously",
+      "Add more libraries to speed up"
+    ],
+    "correct": 0
+  }
+]

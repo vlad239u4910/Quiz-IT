@@ -1,0 +1,92 @@
+[
+  {
+    "title": "What is CSS?",
+    "variants": [
+      "A programming language",
+      "A markup language",
+      "A style description language"
+    ],
+    "correct": 2
+  },
+  {
+    "title": "Which tag is used to connect CSS to HTML?",
+    "variants": [
+      "<style>",
+      "<link>",
+      "<css>"
+    ],
+    "correct": 1
+  },
+  {
+    "title": "What is a selector in CSS?",
+    "variants": [
+      "An HTML tag",
+      "A place to store styles",
+      "A part of code to select elements on a page"
+    ],
+    "correct": 2
+  },
+  {
+    "title": "What does the `color` property in CSS do?",
+    "variants": [
+      "Changes the background color",
+      "Changes the text color",
+      "Changes the border color"
+    ],
+    "correct": 1
+  },
+  {
+    "title": "How do you set inner spacing of an element in CSS?",
+    "variants": [
+      "margin",
+      "padding",
+      "border"
+    ],
+    "correct": 1
+  },
+  {
+    "title": "What is Flexbox?",
+    "variants": [
+      "A technology for creating animations",
+      "A system for aligning elements on a page",
+      "A method for working with images"
+    ],
+    "correct": 1
+  },
+  {
+    "title": "How to set a background for an element in CSS?",
+    "variants": [
+      "background-color",
+      "color",
+      "font"
+    ],
+    "correct": 0
+  },
+  {
+    "title": "How to set font size in CSS?",
+    "variants": [
+      "font-size",
+      "text-size",
+      "size-font"
+    ],
+    "correct": 0
+  },
+  {
+    "title": "What is the `:hover` pseudo-class in CSS?",
+    "variants": [
+      "A style for the active element",
+      "A style for an element when hovered by mouse",
+      "A style for the first element in a list"
+    ],
+    "correct": 1
+  },
+  {
+    "title": "How to create a shadow for an element in CSS?",
+    "variants": [
+      "box-shadow",
+      "shadow",
+      "text-shadow"
+    ],
+    "correct": 0
+  }
+]

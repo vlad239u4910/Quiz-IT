@@ -1,0 +1,83 @@
+[
+  {
+    "title": "What is TypeScript?",
+    "variants": [
+      "A superset of JavaScript that adds static typing",
+      "A new programming language created for server applications",
+      "A framework for creating web applications"
+    ],
+    "correct": 0
+  },
+  {
+    "title": "How do you declare a variable type in TypeScript?",
+    "variants": [
+      "let x: number;",
+      "let x = number;",
+      "let x = 'number';"
+    ],
+    "correct": 0
+  },
+  {
+    "title": "What is an interface in TypeScript?",
+    "variants": [
+      "A way to describe the structure of an object",
+      "A data type for handling events",
+      "A framework for creating components"
+    ],
+    "correct": 0
+  },
+  {
+    "title": "How do you define a function type in TypeScript?",
+    "variants": [
+      "function sum(a: number, b: number): number { return a + b; }",
+      "function sum(a, b): number { return a + b; }",
+      "function sum(a, b): { return a + b; }"
+    ],
+    "correct": 0
+  },
+  {
+    "title": "How do you define an optional parameter in TypeScript?",
+    "variants": [
+      "function greet(name?: string): void { console.log(name); }",
+      "function greet(name: string = ''): void { console.log(name); }",
+      "function greet(name: string): void { console.log(name); }"
+    ],
+    "correct": 0
+  },
+  {
+    "title": "What is the 'any' type in TypeScript?",
+    "variants": [
+      "A type that disables type checking for a variable",
+      "A type that only allows string values",
+      "A type that only allows numeric values"
+    ],
+    "correct": 0
+  },
+  {
+    "title": "What is an enum in TypeScript?",
+    "variants": [
+      "An enumeration of values commonly used in the code",
+      "A type for handling asynchronous operations",
+      "A function for generating random values"
+    ],
+    "correct": 0
+  },
+  {
+    "title": "How do you make a method private in a TypeScript class?",
+    "variants": [
+      "private method() { }",
+      "protected method() { }",
+      "public method() { }"
+    ],
+    "correct": 0
+  },
+  {
+    "title": "How do you type an array in TypeScript?",
+    "variants": [
+      "let arr: number[];",
+      "let arr: Array<number>;",
+      "let arr = [];"
+    ],
+    "correct": 0
+  }
+]

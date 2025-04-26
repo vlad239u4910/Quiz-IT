@@ -1,0 +1,74 @@
+[
+  {
+    "title": "What is CSRF (Cross-Site Request Forgery)?",
+    "variants": [
+      "An attack where an attacker tricks a user into sending unwanted requests on their behalf",
+      "A method of protection against attacks using cookies",
+      "A type of server attack aimed at crashing the database"
+    ],
+    "correct": 0
+  },
+  {
+    "title": "What is XSS (Cross-Site Scripting)?",
+    "variants": [
+      "An attack where an attacker injects malicious code into a page to be executed in the victim's browser",
+      "A web application protection system against unauthorized access",
+      "A method of data encryption"
+    ],
+    "correct": 0
+  },
+  {
+    "title": "How can you prevent XSS vulnerabilities?",
+    "variants": [
+      "By using HTML entities for all input data",
+      "By ignoring input validation",
+      "By enabling an ad blocker extension on the site"
+    ],
+    "correct": 0
+  },
+  {
+    "title": "What is SQL Injection?",
+    "variants": [
+      "An attack where an attacker inserts malicious SQL queries into user input",
+      "A process of speeding up database queries",
+      "A method of encrypting user passwords"
+    ],
+    "correct": 0
+  },
+  {
+    "title": "How can you prevent SQL Injection?",
+    "variants": [
+      "By using parameterized queries",
+      "By not validating input data",
+      "By using less powerful databases"
+    ],
+    "correct": 0
+  },
+  {
+    "title": "What is HTTPS and why is it needed?",
+    "variants": [
+      "A protocol for protecting data transmitted between client and server",
+      "A data compression system to speed up the site",
+      "A method to simplify user authentication"
+    ],
+    "correct": 0
+  },
+  {
+    "title": "Which of the following statements is correct for password protection?",
+    "variants": [
+      "Passwords should be stored in plain text in the database",
+      "Passwords should be encrypted or hashed with a salt",
+      "Passwords can be left unprotected if they are short"
+    ],
+    "correct": 1
+  },
+  {
+    "title": "What is the JWT authentication mechanism?",
+    "variants": [
+      "A method of message encryption",
+      "A protocol for user authentication and authorization in an application",
+      "A vulnerability scanning algorithm"
+    ],
+    "correct": 1
+  }
+]

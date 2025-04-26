@@ -1,0 +1,92 @@
+[
+  {
+    "title": "What is Git?",
+    "variants": [
+      "A design tool",
+      "A version control system",
+      "A text editor"
+    ],
+    "correct": 1
+  },
+  {
+    "title": "What does the `git init` command do?",
+    "variants": [
+      "Creates a new repository",
+      "Connects a repository to a remote server",
+      "Creates a new file in the repository"
+    ],
+    "correct": 0
+  },
+  {
+    "title": "How to view commit history in Git?",
+    "variants": [
+      "git log",
+      "git history",
+      "git commits"
+    ],
+    "correct": 0
+  },
+  {
+    "title": "What does the `git clone` command do?",
+    "variants": [
+      "Creates a new repository",
+      "Clones a remote repository to a local computer",
+      "Creates a new commit"
+    ],
+    "correct": 1
+  },
+  {
+    "title": "How to create a new commit in Git?",
+    "variants": [
+      "git add",
+      "git commit",
+      "git push"
+    ],
+    "correct": 1
+  },
+  {
+    "title": "How to undo the last commit in Git?",
+    "variants": [
+      "git undo",
+      "git reset",
+      "git cancel"
+    ],
+    "correct": 1
+  },
+  {
+    "title": "What does the `git push` command do?",
+    "variants": [
+      "Sends changes to the remote repository",
+      "Creates a new commit",
+      "Merges branches"
+    ],
+    "correct": 0
+  },
+  {
+    "title": "How to create a new branch in Git?",
+    "variants": [
+      "git create branch",
+      "git branch",
+      "git new branch"
+    ],
+    "correct": 1
+  },
+  {
+    "title": "How to merge branches in Git?",
+    "variants": [
+      "git merge",
+      "git combine",
+      "git connect"
+    ],
+    "correct": 0
+  },
+  {
+    "title": "What does the `git status` command do?",
+    "variants": [
+      "Shows current changes in files",
+      "Creates a new commit",
+      "Sends changes to the server"
+    ],
+    "correct": 0
+  }
+]

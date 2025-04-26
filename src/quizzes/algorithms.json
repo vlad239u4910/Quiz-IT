@@ -1,0 +1,110 @@
+[
+  {
+    "title": "What is an algorithm?",
+    "variants": [
+      "A sequence of instructions to solve a problem",
+      "Solving a problem using program code",
+      "A program to run on a computer"
+    ],
+    "correct": 0
+  },
+  {
+    "title": "What is bubble sort?",
+    "variants": [
+      "An algorithm to find the maximum number",
+      "A sorting algorithm that gradually moves elements to the end of the list",
+      "An algorithm to find the minimum element in a list"
+    ],
+    "correct": 1
+  },
+  {
+    "title": "What does the depth-first search algorithm do?",
+    "variants": [
+      "Visits all neighbors of a node",
+      "Finds the shortest path in a graph",
+      "Dives deep into a tree or graph"
+    ],
+    "correct": 2
+  },
+  {
+    "title": "Which algorithm has a time complexity of O(n^2)?",
+    "variants": [
+      "Bubble sort",
+      "Dijkstra's algorithm",
+      "Breadth-first search"
+    ],
+    "correct": 0
+  },
+  {
+    "title": "What is a greedy algorithm?",
+    "variants": [
+      "An algorithm that makes locally optimal choices at each step",
+      "An algorithm that finds a global optimal solution",
+      "An algorithm that works only with numerical data"
+    ],
+    "correct": 0
+  },
+  {
+    "title": "Which algorithm is used to find the shortest path in a graph?",
+    "variants": [
+      "Dijkstra's algorithm",
+      "Knuth-Morris-Pratt algorithm",
+      "Floyd-Warshall algorithm"
+    ],
+    "correct": 0
+  },
+  {
+    "title": "What is binary search?",
+    "variants": [
+      "An algorithm for searching in a sorted array",
+      "An algorithm for sorting an array",
+      "An algorithm for finding the maximum element in a list"
+    ],
+    "correct": 0
+  },
+  {
+    "title": "What is dynamic programming?",
+    "variants": [
+      "A method of solving problems by breaking them down into subproblems",
+      "An algorithm for sorting",
+      "An algorithm for searching in graphs"
+    ],
+    "correct": 0
+  },
+  {
+    "title": "Which algorithm has the worst-case time complexity of O(2^n)?",
+    "variants": [
+      "Depth-first search",
+      "Backtracking algorithm",
+      "Recursive Fibonacci algorithm"
+    ],
+    "correct": 2
+  },
+  {
+    "title": "What is topological sorting?",
+    "variants": [
+      "An algorithm for sorting arrays",
+      "An algorithm for linearly ordering the vertices of a directed acyclic graph",
+      "An algorithm for finding the shortest path"
+    ],
+    "correct": 1
+  },
+  {
+    "title": "What is merging two sorted lists?",
+    "variants": [
+      "An algorithm for merging two arrays into one",
+      "An algorithm for searching in graphs",
+      "An algorithm for merging two sorted trees"
+    ],
+    "correct": 0
+  },
+  {
+    "title": "Which algorithm is used to find the greatest common divisor?",
+    "variants": [
+      "Euclidean algorithm",
+      "Fibonacci algorithm",
+      "Bernstein algorithm"
+    ],
+    "correct": 0
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "title": "What is a browser?",
+    "variants": [
+      "A program for displaying web pages",
+      "A system for managing web servers",
+      "A system for developing websites"
+    ],
+    "correct": 0
+  },
+  {
+    "title": "Which protocol is used to transfer web pages?",
+    "variants": [
+      "HTTP",
+      "FTP",
+      "SMTP"
+    ],
+    "correct": 0
+  },
+  {
+    "title": "What is HTML?",
+    "variants": [
+      "A programming language",
+      "A hypertext markup language",
+      "A styling language"
+    ],
+    "correct": 1
+  },
+  {
+    "title": "Which HTML tag is used to create a link?",
+    "variants": [
+      "<link>",
+      "<a>",
+      "<div>"
+    ],
+    "correct": 1
+  },
+  {
+    "title": "What is JavaScript?",
+    "variants": [
+      "A programming language for interacting with the browser",
+      "A markup language",
+      "A tool for creating styles"
+    ],
+    "correct": 0
+  },
+  {
+    "title": "What does CSS do?",
+    "variants": [
+      "Defines data structures",
+      "Defines the appearance of a web page",
+      "Handles user requests"
+    ],
+    "correct": 1
+  },
+  {
+    "title": "What is the DOM?",
+    "variants": [
+      "The document object model",
+      "A data transfer protocol",
+      "A page rendering algorithm"
+    ],
+    "correct": 0
+  },
+  {
+    "title": "What is browser caching?",
+    "variants": [
+      "Storing temporary data to speed up page loading",
+      "Transferring data to the server",
+      "Clearing the browser history"
+    ],
+    "correct": 0
+  },
+  {
+    "title": "What is a cookie?",
+    "variants": [
+      "A text file for storing user data on the device",
+      "A technology for exchanging data between servers",
+      "A method of displaying images"
+    ],
+    "correct": 0
+  },
+  {
+    "title": "What is WebAssembly?",
+    "variants": [
+      "A programming language for browsers",
+      "A language for developing web servers",
+      "A technology for improving performance in browsers"
+    ],
+    "correct": 2
+  },
+  {
+    "title": "Which browser supports the latest web standards?",
+    "variants": [
+      "Google Chrome",
+      "Internet Explorer",
+      "Mozilla Firefox"
+    ],
+    "correct": 0
+  },
+  {
+    "title": "What is HTTPS?",
+    "variants": [
+      "A data transfer protocol with encryption",
+      "A protocol for sending email messages",
+      "A standard for searching websites"
+    ],
+    "correct": 0
+  }
+]

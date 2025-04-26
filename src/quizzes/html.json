@@ -1,0 +1,110 @@
+[
+  {
+    "title": "What does the <a> tag do?",
+    "variants": [
+      "Creates a paragraph",
+      "Creates a link",
+      "Makes text bold"
+    ],
+    "correct": 1
+  },
+  {
+    "title": "Which tag is used to create a first-level heading?",
+    "variants": [
+      "<head>",
+      "<header>",
+      "<h1>"
+    ],
+    "correct": 2
+  },
+  {
+    "title": "What is the <form> tag used for?",
+    "variants": [
+      "Creating a table",
+      "Creating a form",
+      "Adding images"
+    ],
+    "correct": 1
+  },
+  {
+    "title": "Which attribute is required for the <img> tag?",
+    "variants": [
+      "src",
+      "href",
+      "alt"
+    ],
+    "correct": 0
+  },
+  {
+    "title": "Which tag is used to create an unordered list?",
+    "variants": [
+      "<ul>",
+      "<ol>",
+      "<li>"
+    ],
+    "correct": 0
+  },
+  {
+    "title": "What does the <strong> tag do?",
+    "variants": [
+      "Italicizes text",
+      "Underlines text",
+      "Makes text important (bold)"
+    ],
+    "correct": 2
+  },
+  {
+    "title": "Which attribute is used to specify inline styles?",
+    "variants": [
+      "class",
+      "style",
+      "css"
+    ],
+    "correct": 1
+  },
+  {
+    "title": "Which tag adds a horizontal line?",
+    "variants": [
+      "<br>",
+      "<hr>",
+      "<line>"
+    ],
+    "correct": 1
+  },
+  {
+    "title": "Which tag is used for text input by the user?",
+    "variants": [
+      "<input>",
+      "<text>",
+      "<write>"
+    ],
+    "correct": 0
+  },
+  {
+    "title": "What does the <em> tag do?",
+    "variants": [
+      "Makes text bold",
+      "Underlines text",
+      "Italicizes text (emphasizes importance)"
+    ],
+    "correct": 2
+  },
+  {
+    "title": "Which tag is used to insert an image?",
+    "variants": [
+      "<img>",
+      "<image>",
+      "<src>"
+    ],
+    "correct": 0
+  },
+  {
+    "title": "What does the <br> tag do?",
+    "variants": [
+      "Creates a link",
+      "Moves text to a new line",
+      "Highlights text"
+    ],
+    "correct": 1
+  }
+]
