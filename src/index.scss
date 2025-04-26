@@ -176,7 +176,35 @@ body {
 
 @media (max-width: 600px) {
   .App {
-    transform: scale(1.4);
+    transform: scale(0.9);
+    transform-origin: center;
+  }
+}
+
+@media (max-width: 500px) {
+  .App {
+    transform: scale(0.80);
+    transform-origin: center;
+  }
+}
+
+@media (max-width: 450px) {
+  .App {
+    transform: scale(0.70);
+    transform-origin: center;
+  }
+}
+
+@media (max-width: 400px) {
+  .App {
+    transform: scale(0.60);
+    transform-origin: center;
+  }
+}
+
+@media (max-width: 340px) {
+  .App {
+    transform: scale(0.50);
     transform-origin: center;
   }
 }
