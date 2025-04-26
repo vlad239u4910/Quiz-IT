@@ -5,6 +5,7 @@ import Result from "./components/Result";
 import Game from "./components/Game";
 import ChooseOneQuizz from "./components/ChooseOneQuizz";
 import Menu from "./components/Menu";
+import Menubtn from "./components/Btn-return-menu";
 
 function App() {
   const [step, setStep] = React.useState(0);
@@ -71,7 +72,14 @@ function App() {
                 setCorrectAnswerNum={setCorrectAnswerNum}
                 step={step}
                 questions={questions}
-              />
+                setStep={setStep}
+              >
+                {" "}
+                <Menubtn
+                  setCorrectAnswerNum={setCorrectAnswerNum}
+                  setStep={setStep}
+                />
+              </Game>
             }
           ></Route>
 

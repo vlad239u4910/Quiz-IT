@@ -1,6 +1,14 @@
 import { useNavigate } from "react-router-dom";
 
-function Game({ question, nextStep, setCorrectAnswerNum, step, questions }) {
+function Game({
+  question,
+  nextStep,
+  setCorrectAnswerNum,
+  step,
+  questions,
+  setStep,
+  children,
+}) {
   const navigate = useNavigate();
   if (!question) {
     return (
@@ -30,6 +38,7 @@ function Game({ question, nextStep, setCorrectAnswerNum, step, questions }) {
 
   return (
     <>
+      {children}
       <div className="progress">
         <div
           style={{ width: `${progress}%` }}
