@@ -10,6 +10,8 @@ body {
   align-items: center;
   justify-content: center;
   height: 100vh;
+
+
 }
 
 .App {
@@ -169,4 +171,12 @@ body {
   bottom: -20px;
   background-color: rgba(255, 255, 255, 0.3);
   z-index: 1;
+}
+
+
+@media (max-width: 600px) {
+  body {
+    transform: scale(1.2);
+    transform-origin: center;
+  }
 }
